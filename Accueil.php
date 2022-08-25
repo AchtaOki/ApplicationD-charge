@@ -48,7 +48,7 @@ integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmV
   </div>
 </nav>
         <p><center style="color:darkgray;"> Decharge d'un titre</p></center>
-    <div class="form-check form-check-inline"><h6>Type de demande</h6>
+    <div class="form-check form-check-inline"><h6>Type de demande</h6><br><br>
   <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
   <label class="form-check-label" for="inlineRadio1">Première demande</label>
 </div>
@@ -60,7 +60,7 @@ integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmV
   <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio3" value="option3">
   <label class="form-check-label" for="inlineRadio3">Remplacement</label>
 </div> <br><br>
-    <div class="form-check form-check-inline"><h6>Type de Titre</h6>
+    <div class="form-check form-check-inline"><h6>Type de Titre</h6><br><br>
   <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1">
   <label class="form-check-label" for="inlineCheckbox1">Passport</label>
 </div>
