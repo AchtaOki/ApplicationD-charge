@@ -15,7 +15,7 @@
 <link href="css/style.css" rel="stylesheet">
 <link rel="stylesheet" href="css2.css">
 
-<body>
+<body> 
 
 
 </body>
